@@ -79,10 +79,12 @@ body {
 
 .TaskIcons {
     display: flex;
+    
     gap: 10px;
 }
 .TaskIcons i {
     color: #007BFF;
+    
     cursor: pointer;
 }
 
