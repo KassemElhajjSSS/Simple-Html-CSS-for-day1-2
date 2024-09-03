@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: center; 
     align-items: center; 
-    
+
     height: 100vh;
     margin: 0;
 }
@@ -79,12 +79,10 @@ body {
 
 .TaskIcons {
     display: flex;
-    
     gap: 10px;
 }
 .TaskIcons i {
     color: #007BFF;
-    
     cursor: pointer;
 }
 
